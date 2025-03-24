@@ -1,1 +1,25 @@
 # RBMD: RoBERTa-Based Module Detection in Multi-Programming Language Software Systems
+
+## Project Overview
+
+This repository contains three open-source software evaluations:
+
+1. **Chromium**
+2. **Mozilla 3.7**
+3. **Mozilla 134**
+
+Each folder contains the following:
+- A `target` folder
+- Two Python files: `Copy.py` and `roberta.py`
+
+### Details
+
+#### Chromium
+- Source: [https://github.com/chromium/chromium](https://github.com/chromium/chromium)
+- The `Copy.py` file filters 10 folders with specific files.
+
+#### Mozilla 3.7
+- Source: [https://ftp.mozilla.org/pub/firefox/releases/devpreview/1.9.3a4/source/](https://ftp.mozilla.org/pub/firefox/releases/devpreview/1.9.3a4/source/)
+
+#### Mozilla 134
+- Source: [https://github.com/mozilla/gecko-dev/tree/master](https://github.com/mozilla/gecko-dev/tree/master)
