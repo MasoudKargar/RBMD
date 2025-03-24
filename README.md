@@ -24,3 +24,6 @@ Each folder contains the following:
 
 #### Mozilla 134
 - Source: [https://github.com/mozilla/gecko-dev/tree/master](https://github.com/mozilla/gecko-dev/tree/master)
+
+
+© Masoud Kargar 2025
