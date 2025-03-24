@@ -20,6 +20,7 @@ Each folder contains the following:
 
 #### Mozilla 3.7
 - Source: [https://ftp.mozilla.org/pub/firefox/releases/devpreview/1.9.3a4/source/](https://ftp.mozilla.org/pub/firefox/releases/devpreview/1.9.3a4/source/)
+- Source Paper: https://doi.org/10.1016/j.compeleceng.2019.106500
 
 #### Mozilla 134
 - Source: [https://github.com/mozilla/gecko-dev/tree/master](https://github.com/mozilla/gecko-dev/tree/master)
