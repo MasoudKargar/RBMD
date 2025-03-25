@@ -25,5 +25,6 @@ Each folder contains the following:
 #### Mozilla 134
 - Source: [https://github.com/mozilla/gecko-dev/tree/master](https://github.com/mozilla/gecko-dev/tree/master)
 
+<b>Authors:</b> <a href="https://scholar.google.com/citations?user=RtGIpEkAAAAJ&hl=en">Masoud Kargar</a>, <a href="https://scholar.google.com/citations?user=FHZWfc4AAAAJ&hl=en">Shahin Sharbaf Movassaghpour</a>, <a href="https://scholar.google.com/citations?user=bACdbPYAAAAJ&hl=en">Ali Bayani</a>
 
 © Masoud Kargar 2025
