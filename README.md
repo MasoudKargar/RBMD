@@ -27,4 +27,4 @@ Each folder contains the following:
 
 <b>Authors:</b> <a href="https://scholar.google.com/citations?user=RtGIpEkAAAAJ&hl=en">Masoud Kargar</a>, <a href="https://scholar.google.com/citations?user=FHZWfc4AAAAJ&hl=en">Shahin Sharbaf Movassaghpour</a>, <a href="https://scholar.google.com/citations?user=bACdbPYAAAAJ&hl=en">Ali Bayani</a>
 
-© Masoud Kargar 2025
+© 2025 Masoud Kargar
