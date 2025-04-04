@@ -18,7 +18,7 @@ Each folder contains the following:
 - Source: [https://github.com/chromium/chromium](https://github.com/chromium/chromium)
 - The `Copy.py` file filters 10 folders with specific files.
 
-#### Mozilla 3.7
+#### Mozilla 3.7 (Developer Version)
 - Source: [https://ftp.mozilla.org/pub/firefox/releases/devpreview/1.9.3a4/source/](https://ftp.mozilla.org/pub/firefox/releases/devpreview/1.9.3a4/source/)
 - Source Paper: https://doi.org/10.1016/j.compeleceng.2019.106500
 
