@@ -50,4 +50,10 @@ Each folder contains the following:
 - [Shahin Sharbaf Movassaghpour](https://scholar.google.com/citations?user=FHZWfc4AAAAJ&hl=en)  
 - [Ali Bayani](https://scholar.google.com/citations?user=bACdbPYAAAAJ&hl=en)  
 
+
+## Citation
+
+Kargar, Masoud, Shahin Sharbaf Movassaghpour, and Ali Bayani. "RBMD: RoBERTa-Based Module Detection in Multi-Programming Language Software Systems." In 2025 11th International Conference on Web Research (ICWR), pp. 66-73. IEEE, 2025.
+
+
 &copy; 2025 Masoud Kargar
